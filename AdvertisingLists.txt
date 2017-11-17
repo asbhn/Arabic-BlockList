@@ -15739,7 +15739,6 @@ thj.astrakhan.ru
 track.ultimate-guitar.com
 intent.cbsi.com
 bonfire.spklw.com
-adanalytics.openload.co
 analyticapi.piri.net
 analytics-static.ugc.bazaarvoice.com
 analytics.go.com
@@ -15803,7 +15802,6 @@ log-live.direct.ly
 log.adap.tv
 log.olark.com
 log.rutube.ru
-logdev.openload.co
 logs.thebloggernetwork.com
 ls.srvcs.tumblr.com
 metric.gstatic.com
@@ -15835,7 +15833,6 @@ stats-newyork1.bloxcms.com
 stats.mako.co.il
 stats.mirror.co.uk
 stats.olark.com
-stats.openload.co
 stats.videoseyredin.net
 stats2.arstechnica.com
 su.addthis.com
@@ -38433,7 +38430,6 @@ zumobi.com
 127.0.0.1	analytics.mpn.mokonocdn.com
 127.0.0.1	analytics.nascar.com
 127.0.0.1	analytics.newsinc.com
-127.0.0.1	analytics.openload.co
 127.0.0.1	analytics.optilead.co.uk
 127.0.0.1	analytics.poferries.com
 127.0.0.1	analytics.popsci.com
