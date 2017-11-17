@@ -424,12 +424,7 @@
 127.0.0.1 met.adwhirl.com
 127.0.0.1 mob.adwhirl.com
 
-# [Doubleclick (Google)]
-127.0.0.1 ad-g.doubleclick.net
-127.0.0.1 ad.doubleclick.net
-127.0.0.1 ad.mo.doubleclick.net
-127.0.0.1 doubleclick.net
-127.0.0.1 googleads.g.doubleclick.net
+
 
 # [Google]
 127.0.0.1 pagead.googlesyndication.com
