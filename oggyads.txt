@@ -47,6 +47,7 @@
 ||webmine.cz^$third-party
 ||jscdndel.com^$third-party
 ||rocks.io^$third-party
+||kshowonline.com^$third-party
 ||party-vqgdyvoycc.now.sh^$third-party
 !
 !! Ads reinjection (For apps and DNS only)
