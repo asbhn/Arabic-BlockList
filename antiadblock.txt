@@ -1,0 +1,17 @@
+#kshowonline
+
+
+
+||shulhanafuh.com$domain=kshowonline.com
+
+#Added to English filter
+
+||shulhanafuh.com^$third-party
+kshowonline.com#%#(function(a){Object.defineProperty(window,"upManager",{get:function(){return{push:a,register:a,fireNow:a,start:a}},set:function(a){if(!(a instanceof Error))throw Error();}})})(function(){});
+
+
+
+
+#Added to Annoyances filter:
+
+kshowonline.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
